@@ -1,0 +1,13 @@
+tensorflow
+torch
+torchvision
+timm
+pandas
+numpy
+matplotlib
+tqdm
+pillow
+scikit-learn
+pydot 
+graphviz
+ipykernel
